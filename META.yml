@@ -1,0 +1,16 @@
+--- #YAML:1.0
+name:                FTN-SRIF
+version:             0.05
+abstract:            Perl extension to parse an Fidonet/FTN Standard Request Information File.
+license:             perl
+author:              
+    - Robert James Clay <jame@rocasa.us>
+generated_by:        ExtUtils::MakeMaker version 6.42
+distribution_type:   module
+requires:     
+    Config::Tiny:                  0
+    FTN::Log:                      0.02
+    Test::More:                    0
+meta-spec:
+    url:     http://module-build.sourceforge.net/META-spec-v1.3.html
+    version: 1.3
